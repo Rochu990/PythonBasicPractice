@@ -1,0 +1,1 @@
+print("Nowy plik")
